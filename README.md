@@ -12,7 +12,7 @@ I have a bunch of pinned projects. My favorite one right now is my Gemini Clone 
 
 I spend time every single day solving algorithm problems, constantly working to make my problem solving skills even sharper. 
 
-If you want to check out my professional background, my resume is available right here.
+If you want to check out my professional background, my resume is available right [here](Raghul_D_Resume.pdf).
 
 **Fun Facts:**
 
